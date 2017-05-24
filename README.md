@@ -1,0 +1,2 @@
+# flac2alac441
+ffmpegを用いてカレントディレクトリ内のflacファイルを44.1kのalacに変換する。

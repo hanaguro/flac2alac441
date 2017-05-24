@@ -1,2 +1,3 @@
 # flac2alac441
 ffmpegを用いてカレントディレクトリ内のflacファイルを44.1kのalacに変換する。
+AppleMusicに24bitのままアップロードできたので、量子化ビット数は変更しない。
